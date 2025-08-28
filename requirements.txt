@@ -1,0 +1,5 @@
+duckdb==1.0.0
+pandas>=2.2
+pytest>=8.2
+black>=24.4
+ruff>=0.5
